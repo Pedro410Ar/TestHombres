@@ -1,12 +1,11 @@
 # TestHombres
 Ejercicio en JS - Test de Hombres
 
-<img width=300 height= 200 src="#"/>
+<img width=900 height=450 src="https://github.com/Pedro410Ar/TestHombres/blob/master/tipoHombres.jpg"/>
 
-Ejercicio de animación de texto, donde se utilizó HTML y CSS.
+Ejercicio donde se utilizó HTML y Javascript.
 
-En este repositorio se puede encontrar un ejercicio donde se trabajó el efecto "Maquina de Escribir"; con @Keyframes (https://developer.mozilla.org/es/docs/Web/CSS/@keyframes). 
-En el mismo se pueden ver la imagen de un gaucho, y el primer verso de la poesía "Martin Fierro" escribiendose en pantalla. 
+En este repositorio se puede encontrar un divertido Test para Hombres. Completando los campos personalizados, el programa dirá si eres "lindo" o no. 
+El ejercicio tiene código javascript que trabaja con If y Else, para determinar bajo que condiciones un Hombre es hermoso.  
 
 Se usó Visual Studio Code como editor de texto, y la imagen se descargó de la web. 
-Para realizarlo, se usó de base el ejemplo de la profesora Genesis Rondon de ALura LATAM (https://www.youtube.com/watch?v=j71g5TiMA-M); como también este video (https://www.youtube.com/watch?v=v7XT7A7Pnio).
