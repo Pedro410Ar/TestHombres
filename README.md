@@ -9,4 +9,4 @@ En este repositorio se puede encontrar un divertido Test para Hombres. Completan
 Para ello, se usó de forma cómica, ciertos estereotipos sobre la belleza y el dinero. 
 
 El ejercicio tiene código javascript que trabaja con If y Else, para determinar bajo que condiciones un Hombre es hermoso.  
-Se usó Visual Studio Code como editor de texto, y la imagen se descargó de la web. 
+Se usó Visual Studio Code como editor de texto, y la imagen del README se descargó de la web. 
