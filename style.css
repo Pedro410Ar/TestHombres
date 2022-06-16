@@ -1,0 +1,31 @@
+body{
+    background: linear-gradient(rgb(144, 144, 214), rgb(150, 197, 150));
+    font-family: 'Lato';
+    font-size: 24px;
+    font-weight: bold;
+}
+
+header{  
+    width: auto;
+    height: 250px;
+    text-align: center;     
+}
+
+#botones{
+    width: auto;
+    height: 250px;
+    text-align: center;
+    font-size: 20px;  
+
+    margin-top: 150px;   
+}
+
+footer{   
+    margin-top: 150px;
+    text-align: center;  
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+
